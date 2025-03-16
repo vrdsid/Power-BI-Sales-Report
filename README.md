@@ -3,6 +3,9 @@
 ## **Overview**
 This Power BI dashboard provides a comprehensive analysis of **sales and gross profit performance** across multiple countries and accounts. The report is fully dynamic, allowing users to switch between **Gross Profit, Quantity, and Sales**, with all visuals adapting accordingly.
 
+### **Power BI Report Demo**
+![Power BI Report Demo](project%20demo/2025-03-16%2015-08-26.gif)
+
 ### **Key Features:**
 - **Dynamic Metrics:** Users can toggle between **Gross Profit, Quantity, and Sales** to analyze different aspects of performance.
 - **Four KPIs:**
